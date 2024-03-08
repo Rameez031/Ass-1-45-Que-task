@@ -63,7 +63,7 @@ console.log(myMsg + " " + favNum);
 i am Learning Typescript using node.js and my programm going to be well.*/
 
 // Question 11
-let freindsName: string[] = ["Rabbi", "Yamman", "Taswwor"];
+let freindsName: string[] = ["Rabbi", "Rameez", "Taswwor"];
 console.log(freindsName[0]);
 console.log(freindsName[1]);
 console.log(freindsName[2]);
